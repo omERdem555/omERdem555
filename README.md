@@ -1,40 +1,28 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Banner"/>
+<img src="./assets/banner.png" width="100%" />
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1500&duration=3000&center=true&vCenter=true&width=900&color=58A6FF&lines=Computer+Engineering+Student;Full-Stack+Developer;Artificial+Intelligence;Cyber+Security;Always+Building.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student;Full-Stack+Developer;Artificial+Intelligence;Cyber+Security;Building+Software+That+Creates+Value.)](https://git.io/typing-svg)
 
-</div>
+<br><br>
 
----
+<a href="https://www.linkedin.com/in/omererdem555/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<div align="center">
+<a href="https://omererdemportfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
-Building practical software with modern technologies.
+<a href="https://omererdemblog.vercel.app/">
+<img src="https://img.shields.io/badge/Blog-181717?style=for-the-badge&logo=astro&logoColor=white"/>
+</a>
 
-Focused on **Full-Stack Development**, **Artificial Intelligence**, and **Cyber Security**.
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/omererdem555/">LinkedIn</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://omererdemportfolio.vercel.app/">Portfolio</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://omererdemblog.vercel.app/">Blog</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=omERdem555&style=flat-square&color=1F6FEB)
+<a href="https://github.com/omERdem555">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -42,114 +30,30 @@ Focused on **Full-Stack Development**, **Artificial Intelligence**, and **Cyber 
 
 # About Me
 
-I am a Computer Engineering student who enjoys building real-world software.
+```text
+Computer Engineering Student
 
-My primary interests include:
+• Full-Stack Development
+• Artificial Intelligence
+• Cyber Security
+• Backend Architecture
+• Mobile Development
+• Embedded Systems
+```
 
-- Full-Stack Development
-- Artificial Intelligence
-- Cyber Security
-- Mobile Development
-- Backend Systems
-- Embedded Systems
+I enjoy building practical software rather than experimental prototypes.
 
-I enjoy turning ideas into practical, maintainable and scalable software.
+Most of my projects focus on solving real-world problems while maintaining clean architecture, scalability and long-term maintainability.
 
 ---
 
 # Tech Stack
 
-## Languages
+<div align="center">
 
-<p>
+<img src="https://skillicons.dev/icons?i=flutter,react,angular,fastapi,dotnet,cs,python,mysql,postgres,firebase,docker,git,linux,arduino&perline=7"/>
 
-<img src="https://skillicons.dev/icons?i=cs"/>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=js"/>
-
-<img src="https://skillicons.dev/icons?i=ts"/>
-
-<img src="https://skillicons.dev/icons?i=cpp"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=sql"/>
-
-</p>
-
----
-
-## Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-<img src="https://skillicons.dev/icons?i=angular"/>
-
-<img src="https://skillicons.dev/icons?i=flutter"/>
-
-<img src="https://skillicons.dev/icons?i=tailwind"/>
-
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
-
-</p>
-
----
-
-## Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=dotnet"/>
-
-<img src="https://skillicons.dev/icons?i=fastapi"/>
-
-<img src="https://skillicons.dev/icons?i=firebase"/>
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-</p>
-
----
-
-## Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=postgres"/>
-
-<img src="https://skillicons.dev/icons?i=sqlite"/>
-
-</p>
-
----
-
-## Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=docker"/>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-<img src="https://skillicons.dev/icons?i=arduino"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=visualstudio"/>
-
-</p>
+</div>
 
 ---
 
@@ -159,75 +63,196 @@ I enjoy turning ideas into practical, maintainable and scalable software.
 
 <tr>
 
-<td width="50%">
+<td width="35%">
 
-<h3>StudySpritz</h3>
+<a href="https://github.com/omERdem555/StudySpritz">
 
-Offline-first speed reading application.
+<img src="https://raw.githubusercontent.com/omERdem555/StudySpritz/main/preview.jpeg" width="100%">
 
-Flutter, Hive, Clean Architecture.
-
-<a href="https://github.com/omERdem555/StudySpritz">Repository</a>
+</a>
 
 </td>
 
-<td width="50%">
+<td>
 
-<h3>CineScope</h3>
+## StudySpritz
 
-Movie discovery application using TMDb API.
+Offline-first speed reading application developed with Flutter.
 
-React + Node.js.
+Supports PDF, DOCX and TXT.
 
-<a href="https://github.com/omERdem555/CineScope">Repository</a>
+Built using Clean Architecture and Hive.
+
+**Flutter • Hive • Dart**
+
+<a href="https://github.com/omERdem555/StudySpritz">Repository →</a>
 
 </td>
 
 </tr>
 
+</table>
+
+---
+
+<table>
+
 <tr>
 
-<td>
+<td width="35%">
 
-<h3>Portfolio</h3>
+<a href="https://github.com/omERdem555/CineScope">
 
-Modern responsive portfolio website.
+<img src="https://raw.githubusercontent.com/omERdem555/CineScope/main/preview.jpeg" width="100%">
 
-<a href="https://github.com/omERdem555/Portfolio">Repository</a>
+</a>
 
 </td>
 
 <td>
 
-<h3>Blog</h3>
+## CineScope
 
-Personal technical blog built with Astro.
+Movie discovery platform powered by TMDb API.
 
-<a href="https://github.com/omERdem555/Blog">Repository</a>
+React frontend with Node.js backend.
+
+**React • Node.js • TypeScript**
+
+<a href="https://github.com/omERdem555/CineScope">Repository →</a>
 
 </td>
 
 </tr>
 
+</table>
+
+---
+
+<table>
+
 <tr>
 
-<td>
+<td width="35%">
 
-<h3>HabitTracking</h3>
+<a href="https://github.com/omERdem555/Portfolio">
 
-Daily habit tracker.
+<img src="https://raw.githubusercontent.com/omERdem555/Portfolio/main/preview.jpeg" width="100%">
 
-<a href="https://github.com/omERdem555/HabitTracking">Repository</a>
+</a>
 
 </td>
 
 <td>
 
-<h3>PersonalStudyPlan</h3>
+## Portfolio
 
-AI-powered study planner.
+Minimal portfolio website with modern UI.
 
-<a href="https://github.com/omERdem555/PersonalStudyPlan">Repository</a>
+Dark mode, responsive layout and clean design.
+
+**HTML • CSS • JavaScript**
+
+<a href="https://github.com/omERdem555/Portfolio">Repository →</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+<table>
+
+<tr>
+
+<td width="35%">
+
+<a href="https://github.com/omERdem555/Blog">
+
+<img src="https://raw.githubusercontent.com/omERdem555/Blog/main/preview.jpeg" width="100%">
+
+</a>
+
+</td>
+
+<td>
+
+## Personal Blog
+
+A production-ready technical blog built with Astro.
+
+SEO, RSS, Open Graph, Sitemap, JSON-LD and Markdown support.
+
+**Astro • TypeScript • Markdown**
+
+<a href="https://github.com/omERdem555/Blog">Repository →</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="35%">
+
+<a href="https://github.com/omERdem555/HabitTracking">
+
+<img src="https://raw.githubusercontent.com/omERdem555/HabitTracking/main/preview.jpeg" width="100%">
+
+</a>
+
+</td>
+
+<td>
+
+## Habit Tracking
+
+Daily habit tracking application designed for consistency.
+
+Built with a clean and modern interface.
+
+**React • TypeScript**
+
+<a href="https://github.com/omERdem555/HabitTracking">Repository →</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="35%">
+
+<a href="https://github.com/omERdem555/PersonalStudyPlan">
+
+<img src="https://raw.githubusercontent.com/omERdem555/PersonalStudyPlan/main/preview.jpeg" width="100%">
+
+</a>
+
+</td>
+
+<td>
+
+## Personal Study Plan
+
+AI-assisted study planning platform that analyzes academic performance and generates personalized study schedules.
+
+**Flutter • AI**
+
+<a href="https://github.com/omERdem555/PersonalStudyPlan">Repository →</a>
 
 </td>
 
@@ -238,6 +263,7 @@ AI-powered study planner.
 ---
 
 # GitHub Statistics
+
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=omERdem555&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
@@ -250,17 +276,17 @@ AI-powered study planner.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=omERdem555&theme=github-dark-blue&hide_border=true"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=omERdem555&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
 ---
 
-# Activity Graph
+# Contribution Activity
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=omERdem555&theme=github-dark&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=omERdem555&theme=github-dark&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=F85149"/>
 
 </div>
 
@@ -268,62 +294,40 @@ AI-powered study planner.
 
 # Latest Blog Posts
 
-> This section will be automated with GitHub Actions in a later phase.
-
-- Building an Offline-First Flutter Application
-- Modern Portfolio Development
-- Tailwind CSS Utility-First Workflow
+<!-- BLOG-POST-LIST:START -->
+Coming soon...
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
-# Certificates
+# Latest Certificates
 
-| Certificate | Organization |
-|-------------|--------------|
-| AIdea Camp | SAP ×  Kodluyoruz |
-| AI4Future | IBM × Kodluyoruz |
-| Tailwind CSS | BTK Akademi |
-| Intro to Programming | Kaggle |
-| Intro to Machine Learning | Kaggle |
-| Generative AI | BTK Akademi |
+<!-- CERTIFICATES:START -->
+Coming soon...
+<!-- CERTIFICATES:END -->
 
 ---
-
-# Current Focus
-
-- Full-Stack Development
-- Artificial Intelligence
-- Cyber Security
-- Flutter
-- FastAPI
-- ASP.NET Core
-
----
-
-# Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/omererdem555/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/omererdem555">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://omererdemportfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
-<a href="https://omererdemportfolio.vercel.app/">Portfolio</a>
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-<a href="https://omererdemblog.vercel.app/">Blog</a>
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-<a href="mailto:omererdem555@gmail.com">Email</a>
+<a href="https://omererdemblog.vercel.app">
+<img src="https://img.shields.io/badge/Blog-111111?style=for-the-badge&logo=astro&logoColor=white"/>
+</a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-> Turning ideas into practical software.
+### Building software that creates value.
 
 </div>
