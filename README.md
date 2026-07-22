@@ -4,7 +4,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student;Full-Stack+Developer;Artificial+Intelligence;Cyber+Security;Building+Software+That+Creates+Value.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student;Full-Stack+Developer;Artificial+Intelligence;Cyber+Security;Building+Software+That+Creates+Value)](https://git.io/typing-svg)
 
 <br>
 
@@ -187,3 +187,235 @@ real value.
 ---
 
 # Featured Projects
+
+<table>
+
+<tr>
+
+<td width="38%" valign="top">
+
+<a href="https://github.com/omERdem555/StudySpritz">
+<img src="https://raw.githubusercontent.com/omERdem555/StudySpritz/master/preview.jpeg" width="100%">
+</a>
+
+</td>
+
+<td width="62%" valign="top">
+
+## 📘 StudySpritz
+
+<img src="https://img.shields.io/badge/Flutter-58A6FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Hive-58A6FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Clean_Architecture-FF4D4D?style=flat-square"/>
+
+An offline-first speed reading application designed to help users improve reading efficiency without requiring an internet connection.
+
+The application supports **PDF, DOCX and TXT** documents, provides customizable reading speeds, bookmarking, reading statistics, multilingual support and persistent local storage through Hive.
+
+The project follows **Clean Architecture**, making every layer independent, testable and maintainable as the application continues to grow.
+
+<br>
+
+<a href="https://github.com/omERdem555/StudySpritz">
+<img src="https://img.shields.io/badge/View_Repository-58A6FF?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="38%" valign="top">
+
+<a href="https://github.com/omERdem555/CineScope">
+<img src="https://raw.githubusercontent.com/omERdem555/CineScope/master/preview.jpeg" width="100%">
+</a>
+
+</td>
+
+<td width="62%" valign="top">
+
+## 🎬 CineScope
+
+<img src="https://img.shields.io/badge/React-58A6FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Node.js-58A6FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/TMDB_API-FF4D4D?style=flat-square"/>
+
+A modern movie discovery platform powered by the TMDb API.
+
+Users can search thousands of movies, browse trending content, explore detailed information and discover recommendations through a responsive interface backed by a custom Node.js service.
+
+The project demonstrates REST API integration, component-based UI design and scalable frontend architecture.
+
+<br>
+
+<a href="https://github.com/omERdem555/CineScope">
+<img src="https://img.shields.io/badge/View_Repository-58A6FF?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="38%" valign="top">
+
+<a href="https://github.com/omERdem555/Portfolio">
+<img src="https://raw.githubusercontent.com/omERdem555/Portfolio/master/preview.jpeg" width="100%">
+</a>
+
+</td>
+
+<td width="62%" valign="top">
+
+## 💻 Portfolio
+
+<img src="https://img.shields.io/badge/HTML-58A6FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/CSS-58A6FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/UI_Design-FF4D4D?style=flat-square"/>
+
+A modern personal portfolio focused on simplicity, performance and user experience.
+
+Designed with a minimalist dark interface, responsive layouts and smooth visual hierarchy to present projects, technical skills and professional experience in a clean and accessible format.
+
+<br>
+
+<a href="https://github.com/omERdem555/Portfolio">
+<img src="https://img.shields.io/badge/View_Repository-58A6FF?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="38%" valign="top">
+
+<a href="https://github.com/omERdem555/Blog">
+<img src="https://raw.githubusercontent.com/omERdem555/Blog/master/preview.jpeg" width="100%">
+</a>
+
+</td>
+
+<td width="62%" valign="top">
+
+## ✍ Personal Blog
+
+<img src="https://img.shields.io/badge/Astro-58A6FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Markdown-58A6FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/SEO-FF4D4D?style=flat-square"/>
+
+A production-ready technical blogging platform built with Astro.
+
+Includes SEO optimization, RSS feeds, Open Graph metadata, sitemap generation, JSON-LD support and Markdown-based content management while maintaining excellent Lighthouse performance.
+
+<br>
+
+<a href="https://github.com/omERdem555/Blog">
+<img src="https://img.shields.io/badge/View_Repository-58A6FF?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="38%" valign="top">
+
+<a href="https://github.com/omERdem555/HabitTracking">
+<img src="https://raw.githubusercontent.com/omERdem555/HabitTracking/master/preview.jpeg" width="100%">
+</a>
+
+</td>
+
+<td width="62%" valign="top">
+
+## 📈 Habit Tracking
+
+<img src="https://img.shields.io/badge/React-58A6FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/TypeScript-58A6FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Productivity-FF4D4D?style=flat-square"/>
+
+A productivity-focused application that helps users build consistency through habit tracking.
+
+Designed with a clean interface, intuitive workflows and daily progress visualization to encourage long-term habit formation.
+
+<br>
+
+<a href="https://github.com/omERdem555/HabitTracking">
+<img src="https://img.shields.io/badge/View_Repository-58A6FF?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="38%" valign="top">
+
+<a href="https://github.com/omERdem555/PersonalStudyPlan">
+<img src="https://raw.githubusercontent.com/omERdem555/PersonalStudyPlan/master/preview.jpeg" width="100%">
+</a>
+
+</td>
+
+<td width="62%" valign="top">
+
+## 🤖 Personal Study Plan
+
+<img src="https://img.shields.io/badge/Flutter-58A6FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Artificial_Intelligence-FF4D4D?style=flat-square"/>
+<img src="https://img.shields.io/badge/Education-58A6FF?style=flat-square"/>
+
+An AI-assisted study planning platform that generates personalized learning schedules according to academic performance and learning objectives.
+
+The project aims to combine intelligent planning algorithms with a modern mobile experience to improve productivity and long-term learning outcomes.
+
+<br>
+
+<a href="https://github.com/omERdem555/PersonalStudyPlan">
+<img src="https://img.shields.io/badge/View_Repository-58A6FF?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
