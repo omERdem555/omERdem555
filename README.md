@@ -202,7 +202,7 @@ real value.
 
 <td width="62%" valign="top">
 
-## 📘 StudySpritz
+## StudySpritz
 
 <img src="https://img.shields.io/badge/Flutter-58A6FF?style=flat-square"/>
 <img src="https://img.shields.io/badge/Hive-58A6FF?style=flat-square"/>
@@ -242,7 +242,7 @@ The project follows **Clean Architecture**, making every layer independent, test
 
 <td width="62%" valign="top">
 
-## 🎬 CineScope
+## CineScope
 
 <img src="https://img.shields.io/badge/React-58A6FF?style=flat-square"/>
 <img src="https://img.shields.io/badge/Node.js-58A6FF?style=flat-square"/>
@@ -282,7 +282,7 @@ The project demonstrates REST API integration, component-based UI design and sca
 
 <td width="62%" valign="top">
 
-## 💻 Portfolio
+## Portfolio
 
 <img src="https://img.shields.io/badge/HTML-58A6FF?style=flat-square"/>
 <img src="https://img.shields.io/badge/CSS-58A6FF?style=flat-square"/>
@@ -320,7 +320,7 @@ Designed with a minimalist dark interface, responsive layouts and smooth visual 
 
 <td width="62%" valign="top">
 
-## ✍ Personal Blog
+## Personal Blog
 
 <img src="https://img.shields.io/badge/Astro-58A6FF?style=flat-square"/>
 <img src="https://img.shields.io/badge/Markdown-58A6FF?style=flat-square"/>
@@ -358,7 +358,7 @@ Includes SEO optimization, RSS feeds, Open Graph metadata, sitemap generation, J
 
 <td width="62%" valign="top">
 
-## 📈 Habit Tracking
+## Habit Tracking
 
 <img src="https://img.shields.io/badge/React-58A6FF?style=flat-square"/>
 <img src="https://img.shields.io/badge/TypeScript-58A6FF?style=flat-square"/>
@@ -396,7 +396,7 @@ Designed with a clean interface, intuitive workflows and daily progress visualiz
 
 <td width="62%" valign="top">
 
-## 🤖 Personal Study Plan
+## Personal Study Plan
 
 <img src="https://img.shields.io/badge/Flutter-58A6FF?style=flat-square"/>
 <img src="https://img.shields.io/badge/Artificial_Intelligence-FF4D4D?style=flat-square"/>
@@ -417,5 +417,94 @@ The project aims to combine intelligent planning algorithms with a modern mobile
 </tr>
 
 </table>
+
+---
+
+# Development Metrics
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=omERdem555&theme=github_dark&utcOffset=3"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omERdem555&theme=github_dark"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omERdem555&theme=github_dark"/>
+
+</div>
+
+---
+
+# Latest Blog Posts
+
+<div align="center">
+
+_Articles are automatically updated via GitHub Actions._
+
+</div>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+# Latest Certificates
+
+<div align="center">
+
+_Recently completed courses and certifications._
+
+</div>
+
+<!-- CERTIFICATES:START -->
+<!-- CERTIFICATES:END -->
+
+---
+
+# Automation
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/GitHub_Actions-Automated-58A6FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/README-Auto_Updated-FF4D4D?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Blog-Synchronized-58A6FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Certificates-Synchronized-FF4D4D?style=for-the-badge"/>
+
+</div>
+
+---
+
+# Development Workflow
+
+<div align="center">
+
+```text
+Idea
+   │
+   ▼
+Architecture
+   │
+   ▼
+Development
+   │
+   ▼
+Testing
+   │
+   ▼
+Deployment
+   │
+   ▼
+Continuous Improvement
+```
+
+</div>
 
 ---
