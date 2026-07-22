@@ -17,23 +17,23 @@ Computer Engineering Student • Full-Stack Developer • Cyber Security
 
 # About
 
-Computer Engineering student passionate about building scalable and maintainable software.
+Computer Engineering student focused on designing and developing modern software solutions.
+
+Interested in building reliable applications with clean architecture, scalable backend systems and intelligent technologies. I enjoy transforming ideas into functional products by combining software engineering principles with emerging technologies.
 
 ### Current Focus
 
-🔹 Full-Stack Development
+🔹 Full-Stack Application Development
 
-🔹 Artificial Intelligence
+🔹 Flutter Mobile Applications
 
-🔹 Flutter
+🔹 FastAPI & Backend Systems
 
-🔹 FastAPI
+🔹 Artificial Intelligence Applications
 
-🔹 Backend Architecture
+🔹 Software Architecture & Clean Design
 
-🔹 Cyber Security
-
-## Reach Me
+🔹 Cyber Security Fundamentals
 <div align="center">
 
 <a href="https://www.linkedin.com/in/omererdem555">
@@ -129,21 +129,6 @@ Computer Engineering student passionate about building scalable and maintainable
 <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omERdem555&theme=github_dark"/>
 
 </div>
-
----
-
-## Currently Working On
-
-- AI-powered mobile applications
-
-- Flutter Clean Architecture
-
-- FastAPI Backend Systems
-
-- Cyber Security
-
-- Cloud Technologies
-
 ---
 
 # Featured Projects
@@ -168,11 +153,9 @@ Computer Engineering student passionate about building scalable and maintainable
 <img src="https://img.shields.io/badge/Hive-58A6FF?style=flat-square"/>
 <img src="https://img.shields.io/badge/Clean_Architecture-FF4D4D?style=flat-square"/>
 
-An offline-first speed reading application designed to help users improve reading efficiency without requiring an internet connection.
+An offline-first speed reading application built with Flutter.
 
-The application supports **PDF, DOCX and TXT** documents, provides customizable reading speeds, bookmarking, reading statistics, multilingual support and persistent local storage through Hive.
-
-The project follows **Clean Architecture**, making every layer independent, testable and maintainable as the application continues to grow.
+Supports document-based reading, customizable speed controls, bookmarks and statistics with local data persistence using Hive. Designed with Clean Architecture for maintainability and scalability.
 
 <br>
 
@@ -208,11 +191,9 @@ The project follows **Clean Architecture**, making every layer independent, test
 <img src="https://img.shields.io/badge/Node.js-58A6FF?style=flat-square"/>
 <img src="https://img.shields.io/badge/TMDB_API-FF4D4D?style=flat-square"/>
 
-A modern movie discovery platform powered by the TMDb API.
+A modern movie discovery application powered by the TMDb API.
 
-Users can search thousands of movies, browse trending content, explore detailed information and discover recommendations through a responsive interface backed by a custom Node.js service.
-
-The project demonstrates REST API integration, component-based UI design and scalable frontend architecture.
+Provides movie search, trending content, detailed information and recommendations through a responsive React interface with a custom Node.js backend service.
 
 <br>
 
@@ -248,9 +229,9 @@ The project demonstrates REST API integration, component-based UI design and sca
 <img src="https://img.shields.io/badge/CSS-58A6FF?style=flat-square"/>
 <img src="https://img.shields.io/badge/UI_Design-FF4D4D?style=flat-square"/>
 
-A modern personal portfolio focused on simplicity, performance and user experience.
+A modern personal portfolio website focused on performance, simplicity and user experience.
 
-Designed with a minimalist dark interface, responsive layouts and smooth visual hierarchy to present projects, technical skills and professional experience in a clean and accessible format.
+Designed with a minimalist interface to showcase projects, technical skills and professional journey with a responsive and accessible design.
 
 <br>
 
@@ -286,9 +267,9 @@ Designed with a minimalist dark interface, responsive layouts and smooth visual 
 <img src="https://img.shields.io/badge/Markdown-58A6FF?style=flat-square"/>
 <img src="https://img.shields.io/badge/SEO-FF4D4D?style=flat-square"/>
 
-A production-ready technical blogging platform built with Astro.
+A technical blogging platform built with Astro and Markdown.
 
-Includes SEO optimization, RSS feeds, Open Graph metadata, sitemap generation, JSON-LD support and Markdown-based content management while maintaining excellent Lighthouse performance.
+Includes SEO optimization, sitemap generation, RSS support and structured metadata while maintaining high performance and fast loading times.
 
 <br>
 
@@ -324,9 +305,9 @@ Includes SEO optimization, RSS feeds, Open Graph metadata, sitemap generation, J
 <img src="https://img.shields.io/badge/TypeScript-58A6FF?style=flat-square"/>
 <img src="https://img.shields.io/badge/Productivity-FF4D4D?style=flat-square"/>
 
-A productivity-focused application that helps users build consistency through habit tracking.
+A productivity application designed to help users build and maintain daily habits.
 
-Designed with a clean interface, intuitive workflows and daily progress visualization to encourage long-term habit formation.
+Provides habit management, progress tracking and a clean user experience focused on consistency and personal improvement.
 
 <br>
 
@@ -362,9 +343,9 @@ Designed with a clean interface, intuitive workflows and daily progress visualiz
 <img src="https://img.shields.io/badge/Artificial_Intelligence-FF4D4D?style=flat-square"/>
 <img src="https://img.shields.io/badge/Education-58A6FF?style=flat-square"/>
 
-An AI-assisted study planning platform that generates personalized learning schedules according to academic performance and learning objectives.
+An AI-assisted study planning application designed to create personalized learning schedules.
 
-The project aims to combine intelligent planning algorithms with a modern mobile experience to improve productivity and long-term learning outcomes.
+Combines intelligent planning approaches with a mobile experience to help users organize their learning process more effectively.
 
 <br>
 
