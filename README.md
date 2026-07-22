@@ -58,7 +58,7 @@ Interested in building reliable applications with clean architecture, scalable b
 
 # Tech Stack
 
-<div align="center">
+<div width="80%" align="center">
 
 <img src="https://skillicons.dev/icons?i=flutter,react,angular,fastapi,dotnet,cs,python,cpp,js,ts,html,css,mysql,postgres,sqlite,firebase,git,github,arduino,vscode&perline=11"/>
 
