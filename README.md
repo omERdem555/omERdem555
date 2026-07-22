@@ -129,7 +129,6 @@ Interested in building reliable applications with clean architecture, scalable b
 <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omERdem555&theme=github_dark"/>
 
 </div>
----
 
 # Featured Projects
 
