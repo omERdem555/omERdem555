@@ -6,7 +6,15 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student;Full-Stack+Developer;Artificial+Intelligence;Cyber+Security;Building+Software+That+Creates+Value.)](https://git.io/typing-svg)
 
-<br><br>
+<br>
+
+<h2>
+
+Computer Engineering Student • Full-Stack Developer • Cyber Security
+
+</h2>
+
+<br>
 
 <a href="https://www.linkedin.com/in/omererdem555">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -38,13 +46,6 @@
 
 ---
 
-
-<h3 align="center">
-Computer Engineering Student • Full-Stack Developer • Cyber Security
-</h3>
-
----
-
 <table>
 
 <tr>
@@ -53,11 +54,11 @@ Computer Engineering Student • Full-Stack Developer • Cyber Security
 
 ## About Me
 
-Building software is more than writing code for me—it's about transforming ideas into reliable, maintainable products that solve real problems.
+Building software is more than simply writing code—it's about creating products that remain useful, maintainable and scalable long after the first release.
 
-My primary focus is on designing applications with clean architecture, scalability, and long-term maintainability in mind. I enjoy working across the full software lifecycle, from planning and system design to development, testing, and deployment.
+I enjoy transforming complex ideas into clean, production-ready applications by combining thoughtful system design with modern development practices. Whether I'm developing a Flutter application, designing a REST API, or architecting backend services, I always prioritize readability, performance and long-term sustainability over short-term solutions.
 
-Beyond application development, I actively explore artificial intelligence, backend engineering, cybersecurity, and embedded systems, constantly expanding my technical perspective through hands-on projects.
+Curiosity drives the way I learn. I continuously explore artificial intelligence, backend engineering, cybersecurity and embedded systems while applying what I learn to real-world projects rather than isolated experiments. Every repository reflects another step toward becoming a more complete software engineer.
 
 <br>
 
@@ -74,7 +75,6 @@ Beyond application development, I actively explore artificial intelligence, back
 🔹 Backend Architecture
 
 🔹 Clean Architecture
-
 
 </td>
 
@@ -94,7 +94,6 @@ Türkiye
 
 Learning
 AI • Cloud • Cyber Security
-
 
 Goal
 Creating software that delivers
