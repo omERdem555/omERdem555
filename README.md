@@ -12,9 +12,8 @@
 Computer Engineering Student • Full-Stack Developer • Cyber Security
 
 </h2>
-</div>
 
----
+</div>
 
 # About
 
@@ -33,6 +32,27 @@ Computer Engineering student passionate about building scalable and maintainable
 🔹 Backend Architecture
 
 🔹 Cyber Security
+
+## Reach Me
+<div align="center">
+
+<a href="https://www.linkedin.com/in/omererdem555">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://omererdemportfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://omererdemblog.vercel.app">
+<img src="https://img.shields.io/badge/Blog-181717?style=for-the-badge&logo=astro&logoColor=white"/>
+</a>
+
+<a href="mailto:omererdem555@outlook.com">
+<img src="https://img.shields.io/badge/Email-FF4D4D?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
