@@ -508,3 +508,47 @@ Continuous Improvement
 </div>
 
 ---
+
+<div align="center">
+
+## Let's Connect
+
+<a href="https://www.linkedin.com/in/omererdem555">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="https://omererdemportfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="https://omererdemblog.vercel.app">
+<img src="https://img.shields.io/badge/Blog-111111?style=for-the-badge&logo=astro&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="mailto:omererdem555@outlook.com">
+<img src="https://img.shields.io/badge/Email-FF4D4D?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=footer"/>
+
+<br>
+
+<h3>Building software that delivers real value.</h3>
+
+<p>
+Clean Architecture • Artificial Intelligence • Backend Engineering • Flutter • Cyber Security
+</p>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=omERdem555&style=for-the-badge&color=58A6FF"/>
+
+</div>
