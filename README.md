@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="./assets/banner.png" width="100%" alt="Banner"/>
 
 <br>
@@ -13,6 +12,7 @@
 Computer Engineering Student • Full-Stack Developer • Cyber Security
 
 </h2>
+</div>
 
 ---
 
@@ -343,5 +343,3 @@ The project aims to combine intelligent planning algorithms with a modern mobile
 </tr>
 
 </table>
-
----
