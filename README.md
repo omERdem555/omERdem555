@@ -280,7 +280,7 @@ AI-powered study planner.
 
 | Certificate | Organization |
 |-------------|--------------|
-| AIdea Camp | SAP × Kodluyoruz |
+| AIdea Camp | SAP ×  Kodluyoruz |
 | AI4Future | IBM × Kodluyoruz |
 | Tailwind CSS | BTK Akademi |
 | Intro to Programming | Kaggle |
