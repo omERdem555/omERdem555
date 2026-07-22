@@ -46,21 +46,9 @@ Computer Engineering Student • Full-Stack Developer • Cyber Security
 
 ---
 
-<table>
+# About
 
-<tr>
-
-<td width="58%" valign="top">
-
-## About Me
-
-Building software is more than simply writing code—it's about creating products that remain useful, maintainable and scalable long after the first release.
-
-I enjoy transforming complex ideas into clean, production-ready applications by combining thoughtful system design with modern development practices. Whether I'm developing a Flutter application, designing a REST API, or architecting backend services, I always prioritize readability, performance and long-term sustainability over short-term solutions.
-
-Curiosity drives the way I learn. I continuously explore artificial intelligence, backend engineering, cybersecurity and embedded systems while applying what I learn to real-world projects rather than isolated experiments. Every repository reflects another step toward becoming a more complete software engineer.
-
-<br>
+Computer Engineering student passionate about building scalable and maintainable software.
 
 ### Current Focus
 
@@ -68,45 +56,13 @@ Curiosity drives the way I learn. I continuously explore artificial intelligence
 
 🔹 Artificial Intelligence
 
-🔹 Flutter & Cross Platform
+🔹 Flutter
 
-🔹 FastAPI & ASP.NET Core
+🔹 FastAPI
 
 🔹 Backend Architecture
 
-🔹 Clean Architecture
-
-</td>
-
-<td width="42%" valign="top">
-
-```text
-██████████████████████
-
-Name
-Ömer Erdem
-
-Role
-Computer Engineering Student
-
-Location
-Türkiye
-
-Learning
-AI • Cloud • Cyber Security
-
-Goal
-Creating software that delivers
-real value.
-
-██████████████████████
-```
-
-</td>
-
-</tr>
-
-</table>
+🔹 Cyber Security
 
 ---
 
@@ -420,94 +376,6 @@ The project aims to combine intelligent planning algorithms with a modern mobile
 
 ---
 
-# Development Metrics
-
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=omERdem555&theme=github_dark&utcOffset=3"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omERdem555&theme=github_dark"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omERdem555&theme=github_dark"/>
-
-</div>
-
----
-
-# Latest Blog Posts
-
-<div align="center">
-
-_Articles are automatically updated via GitHub Actions._
-
-</div>
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-# Latest Certificates
-
-<div align="center">
-
-_Recently completed courses and certifications._
-
-</div>
-
-<!-- CERTIFICATES:START -->
-<!-- CERTIFICATES:END -->
-
----
-
-# Automation
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/GitHub_Actions-Automated-58A6FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/README-Auto_Updated-FF4D4D?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Blog-Synchronized-58A6FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Certificates-Synchronized-FF4D4D?style=for-the-badge"/>
-
-</div>
-
----
-
-# Development Workflow
-
-<div align="center">
-
-```text
-Idea
-   │
-   ▼
-Architecture
-   │
-   ▼
-Development
-   │
-   ▼
-Testing
-   │
-   ▼
-Deployment
-   │
-   ▼
-Continuous Improvement
-```
-
-</div>
-
----
 
 <div align="center">
 
