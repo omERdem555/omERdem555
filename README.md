@@ -26,7 +26,7 @@
 
 &nbsp;
 
-<a href="mailto:omererdem555@gmail.com">
+<a href="mailto:omererdem555@outlook.com">
 <img src="https://img.shields.io/badge/Email-FF4D4D?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -38,12 +38,9 @@
 
 ---
 
-<h1 align="center">
-Hi, I'm Ömer Erdem 👋
-</h1>
 
 <h3 align="center">
-Computer Engineering Student • Full-Stack Developer • AI Enthusiast
+Computer Engineering Student • Full-Stack Developer • Cyber Security
 </h3>
 
 ---
@@ -78,7 +75,6 @@ Beyond application development, I actively explore artificial intelligence, back
 
 🔹 Clean Architecture
 
-🔹 Embedded Systems
 
 </td>
 
@@ -99,8 +95,6 @@ Türkiye
 Learning
 AI • Cloud • Cyber Security
 
-Currently Building
-StudySpritz
 
 Goal
 Creating software that delivers
@@ -121,7 +115,7 @@ real value.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,react,angular,fastapi,dotnet,cs,python,cpp,js,ts,html,css,mysql,postgres,sqlite,firebase,docker,git,github,linux,arduino,vscode&perline=11"/>
+<img src="https://skillicons.dev/icons?i=flutter,react,angular,fastapi,dotnet,cs,python,cpp,js,ts,html,css,mysql,postgres,sqlite,firebase,git,github,arduino,vscode&perline=11"/>
 
 </div>
 
