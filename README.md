@@ -20,9 +20,6 @@
 <img src="https://img.shields.io/badge/Blog-181717?style=for-the-badge&logo=astro&logoColor=white"/>
 </a>
 
-<a href="https://github.com/omERdem555">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 </div>
 
@@ -67,7 +64,7 @@ Most of my projects focus on solving real-world problems while maintaining clean
 
 <a href="https://github.com/omERdem555/StudySpritz">
 
-<img src="https://raw.githubusercontent.com/omERdem555/StudySpritz/main/preview.jpeg" width="100%">
+<img src="https://raw.githubusercontent.com/omERdem555/StudySpritz/preview.jpeg" width="100%">
 
 </a>
 
@@ -103,7 +100,7 @@ Built using Clean Architecture and Hive.
 
 <a href="https://github.com/omERdem555/CineScope">
 
-<img src="https://raw.githubusercontent.com/omERdem555/CineScope/main/preview.jpeg" width="100%">
+<img src="https://raw.githubusercontent.com/omERdem555/CineScope/preview.jpeg" width="100%">
 
 </a>
 
@@ -137,7 +134,7 @@ React frontend with Node.js backend.
 
 <a href="https://github.com/omERdem555/Portfolio">
 
-<img src="https://raw.githubusercontent.com/omERdem555/Portfolio/main/preview.jpeg" width="100%">
+<img src="https://raw.githubusercontent.com/omERdem555/Portfolio/preview.jpeg" width="100%">
 
 </a>
 
@@ -170,7 +167,7 @@ Dark mode, responsive layout and clean design.
 
 <a href="https://github.com/omERdem555/Blog">
 
-<img src="https://raw.githubusercontent.com/omERdem555/Blog/main/preview.jpeg" width="100%">
+<img src="https://raw.githubusercontent.com/omERdem555/Blog/preview.jpeg" width="100%">
 
 </a>
 
@@ -204,7 +201,7 @@ SEO, RSS, Open Graph, Sitemap, JSON-LD and Markdown support.
 
 <a href="https://github.com/omERdem555/HabitTracking">
 
-<img src="https://raw.githubusercontent.com/omERdem555/HabitTracking/main/preview.jpeg" width="100%">
+<img src="https://raw.githubusercontent.com/omERdem555/HabitTracking/preview.jpeg" width="100%">
 
 </a>
 
@@ -238,7 +235,7 @@ Built with a clean and modern interface.
 
 <a href="https://github.com/omERdem555/PersonalStudyPlan">
 
-<img src="https://raw.githubusercontent.com/omERdem555/PersonalStudyPlan/main/preview.jpeg" width="100%">
+<img src="https://raw.githubusercontent.com/omERdem555/PersonalStudyPlan/preview.jpeg" width="100%">
 
 </a>
 
