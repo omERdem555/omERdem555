@@ -132,6 +132,20 @@ Computer Engineering student passionate about building scalable and maintainable
 
 ---
 
+## Currently Working On
+
+- AI-powered mobile applications
+
+- Flutter Clean Architecture
+
+- FastAPI Backend Systems
+
+- Cyber Security
+
+- Cloud Technologies
+
+---
+
 # Featured Projects
 
 <table>
