@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" />
+<img src="./assets/banner.png" width="100%" alt="Banner"/>
 
 <br>
 
@@ -8,39 +8,112 @@
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/omererdem555/">
+<a href="https://www.linkedin.com/in/omererdem555">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://omererdemportfolio.vercel.app/">
+&nbsp;
+
+<a href="https://omererdemportfolio.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="https://omererdemblog.vercel.app/">
-<img src="https://img.shields.io/badge/Blog-181717?style=for-the-badge&logo=astro&logoColor=white"/>
+&nbsp;
+
+<a href="https://omererdemblog.vercel.app">
+<img src="https://img.shields.io/badge/Blog-111111?style=for-the-badge&logo=astro&logoColor=white"/>
 </a>
 
+&nbsp;
+
+<a href="mailto:omererdem555@gmail.com">
+<img src="https://img.shields.io/badge/Email-FF4D4D?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=omERdem555&style=for-the-badge&color=58A6FF"/>
 
 </div>
 
 ---
 
-# About Me
+<h1 align="center">
+Hi, I'm Ömer Erdem 👋
+</h1>
+
+<h3 align="center">
+Computer Engineering Student • Full-Stack Developer • AI Enthusiast
+</h3>
+
+---
+
+<table>
+
+<tr>
+
+<td width="58%" valign="top">
+
+## About Me
+
+Building software is more than writing code for me—it's about transforming ideas into reliable, maintainable products that solve real problems.
+
+My primary focus is on designing applications with clean architecture, scalability, and long-term maintainability in mind. I enjoy working across the full software lifecycle, from planning and system design to development, testing, and deployment.
+
+Beyond application development, I actively explore artificial intelligence, backend engineering, cybersecurity, and embedded systems, constantly expanding my technical perspective through hands-on projects.
+
+<br>
+
+### Current Focus
+
+🔹 Full-Stack Development
+
+🔹 Artificial Intelligence
+
+🔹 Flutter & Cross Platform
+
+🔹 FastAPI & ASP.NET Core
+
+🔹 Backend Architecture
+
+🔹 Clean Architecture
+
+🔹 Embedded Systems
+
+</td>
+
+<td width="42%" valign="top">
 
 ```text
+██████████████████████
+
+Name
+Ömer Erdem
+
+Role
 Computer Engineering Student
 
-• Full-Stack Development
-• Artificial Intelligence
-• Cyber Security
-• Backend Architecture
-• Mobile Development
-• Embedded Systems
+Location
+Türkiye
+
+Learning
+AI • Cloud • Cyber Security
+
+Currently Building
+StudySpritz
+
+Goal
+Creating software that delivers
+real value.
+
+██████████████████████
 ```
 
-I enjoy building practical software rather than experimental prototypes.
+</td>
 
-Most of my projects focus on solving real-world problems while maintaining clean architecture, scalability and long-term maintainability.
+</tr>
+
+</table>
 
 ---
 
@@ -48,283 +121,76 @@ Most of my projects focus on solving real-world problems while maintaining clean
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,react,angular,fastapi,dotnet,cs,python,mysql,postgres,firebase,docker,git,linux,arduino&perline=7"/>
+<img src="https://skillicons.dev/icons?i=flutter,react,angular,fastapi,dotnet,cs,python,cpp,js,ts,html,css,mysql,postgres,sqlite,firebase,docker,git,github,linux,arduino,vscode&perline=11"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Flutter-58A6FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/FastAPI-58A6FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/React-58A6FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Clean_Architecture-FF4D4D?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI-FF4D4D?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open_Source-58A6FF?style=for-the-badge"/>
+
+</div>
+
+---
+
+# GitHub Dashboard
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=omERdem555&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omERdem555&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com?user=omERdem555&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=omERdem555&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF4D4D&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+# Development Insights
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omERdem555&theme=github_dark"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omERdem555&theme=github_dark"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omERdem555&theme=github_dark"/>
 
 </div>
 
 ---
 
 # Featured Projects
-
-<table>
-
-<tr>
-
-<td width="35%">
-
-<a href="https://github.com/omERdem555/StudySpritz">
-
-<img src="https://raw.githubusercontent.com/omERdem555/StudySpritz/preview.jpeg" width="100%">
-
-</a>
-
-</td>
-
-<td>
-
-## StudySpritz
-
-Offline-first speed reading application developed with Flutter.
-
-Supports PDF, DOCX and TXT.
-
-Built using Clean Architecture and Hive.
-
-**Flutter • Hive • Dart**
-
-<a href="https://github.com/omERdem555/StudySpritz">Repository →</a>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td width="35%">
-
-<a href="https://github.com/omERdem555/CineScope">
-
-<img src="https://raw.githubusercontent.com/omERdem555/CineScope/preview.jpeg" width="100%">
-
-</a>
-
-</td>
-
-<td>
-
-## CineScope
-
-Movie discovery platform powered by TMDb API.
-
-React frontend with Node.js backend.
-
-**React • Node.js • TypeScript**
-
-<a href="https://github.com/omERdem555/CineScope">Repository →</a>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td width="35%">
-
-<a href="https://github.com/omERdem555/Portfolio">
-
-<img src="https://raw.githubusercontent.com/omERdem555/Portfolio/preview.jpeg" width="100%">
-
-</a>
-
-</td>
-
-<td>
-
-## Portfolio
-
-Minimal portfolio website with modern UI.
-
-Dark mode, responsive layout and clean design.
-
-**HTML • CSS • JavaScript**
-
-<a href="https://github.com/omERdem555/Portfolio">Repository →</a>
-
-</td>
-
-</tr>
-
-</table>
-
----
-<table>
-
-<tr>
-
-<td width="35%">
-
-<a href="https://github.com/omERdem555/Blog">
-
-<img src="https://raw.githubusercontent.com/omERdem555/Blog/preview.jpeg" width="100%">
-
-</a>
-
-</td>
-
-<td>
-
-## Personal Blog
-
-A production-ready technical blog built with Astro.
-
-SEO, RSS, Open Graph, Sitemap, JSON-LD and Markdown support.
-
-**Astro • TypeScript • Markdown**
-
-<a href="https://github.com/omERdem555/Blog">Repository →</a>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td width="35%">
-
-<a href="https://github.com/omERdem555/HabitTracking">
-
-<img src="https://raw.githubusercontent.com/omERdem555/HabitTracking/preview.jpeg" width="100%">
-
-</a>
-
-</td>
-
-<td>
-
-## Habit Tracking
-
-Daily habit tracking application designed for consistency.
-
-Built with a clean and modern interface.
-
-**React • TypeScript**
-
-<a href="https://github.com/omERdem555/HabitTracking">Repository →</a>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td width="35%">
-
-<a href="https://github.com/omERdem555/PersonalStudyPlan">
-
-<img src="https://raw.githubusercontent.com/omERdem555/PersonalStudyPlan/preview.jpeg" width="100%">
-
-</a>
-
-</td>
-
-<td>
-
-## Personal Study Plan
-
-AI-assisted study planning platform that analyzes academic performance and generates personalized study schedules.
-
-**Flutter • AI**
-
-<a href="https://github.com/omERdem555/PersonalStudyPlan">Repository →</a>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=omERdem555&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omERdem555&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="80%" src="https://streak-stats.demolab.com?user=omERdem555&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
----
-
-# Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=omERdem555&theme=github-dark&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=F85149"/>
-
-</div>
-
----
-
-# Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-Coming soon...
-<!-- BLOG-POST-LIST:END -->
-
----
-
-# Latest Certificates
-
-<!-- CERTIFICATES:START -->
-Coming soon...
-<!-- CERTIFICATES:END -->
-
----
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/omererdem555">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://omererdemportfolio.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://omererdemblog.vercel.app">
-<img src="https://img.shields.io/badge/Blog-111111?style=for-the-badge&logo=astro&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### Building software that creates value.
-
-</div>
