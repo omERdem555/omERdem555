@@ -25,12 +25,17 @@ I enjoy designing clean, maintainable software that transforms ideas into practi
 Current Focus Areas
 </h2>
 
-• Full-Stack Application Development
-• Flutter Mobile Development
-• FastAPI Backend Systems
-• Artificial Intelligence
-• Software Architecture
-• Cyber Security
+🔹 Full-Stack Application Development
+
+🔹 Flutter Mobile Applications
+
+🔹 FastAPI & Backend Systems
+
+🔹 Artificial Intelligence Applications
+
+🔹 Software Architecture & Clean Design
+
+🔹 Cyber Security Fundamentals
 
 <div align="center">
 
