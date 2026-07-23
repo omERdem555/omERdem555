@@ -57,13 +57,13 @@ Currently focused on building scalable applications with Flutter and FastAPI whi
 
 ---
 
-# Tech Stack
+### Tech Stack
 
 <div align="center">
 
 <img
 width="78%"
-src="https://skillicons.dev/icons?i=flutter,react,angular,fastapi,dotnet,cs,python,cpp,js,ts,html,css,mysql,postgres,sqlite,firebase,git,github,arduino,vscode&perline=10"/>
+src="https://skillicons.dev/icons?i=flutter,react,angular,fastapi,dotnet,cs,python,cpp,js,ts,html,css,mysql,postgres,sqlite,firebase,git,github,arduino,vscode&perline=20"/>
 
 <br><br>
 
@@ -78,7 +78,7 @@ src="https://skillicons.dev/icons?i=flutter,react,angular,fastapi,dotnet,cs,pyth
 
 ---
 
-# GitHub Dashboard
+## GitHub Dashboard
 
 <div align="center">
 
@@ -106,7 +106,7 @@ src="https://skillicons.dev/icons?i=flutter,react,angular,fastapi,dotnet,cs,pyth
 
 ---
 
-# Development Insights
+## Development Insights
 
 <div align="center">
 
@@ -124,7 +124,7 @@ src="https://skillicons.dev/icons?i=flutter,react,angular,fastapi,dotnet,cs,pyth
 
 </div>
 
-# Featured Projects
+## Featured Projects
 
 <table>
 <tr>
