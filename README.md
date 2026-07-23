@@ -8,7 +8,7 @@
 
 </div>
 
-<h2 >
+<h2 align="center">
 About Me
 </h2>
 <p>
@@ -17,23 +17,20 @@ Software Engineering • Backend • Mobile • AI
 
 Computer Engineering student with a strong interest in backend systems, mobile development and software architecture.
 
-Currently focused on building scalable applications with Flutter and FastAPI while expanding my knowledge in artificial intelligence and cyber security. I enjoy transforming ideas into practical software with clean, maintainable code.
+Currently building scalable applications with Flutter and FastAPI while expanding my expertise in artificial intelligence and cyber security.
+
+I enjoy designing clean, maintainable software that transforms ideas into practical solutions.
 
 <h2 align="center">
-Currently Focus
+Current Focus Areas
 </h2>
 
-🔹 Full-Stack Application Development
-
-🔹 Flutter Mobile Applications
-
-🔹 FastAPI & Backend Systems
-
-🔹 Artificial Intelligence Applications
-
-🔹 Software Architecture & Clean Design
-
-🔹 Cyber Security Fundamentals
+• Full-Stack Application Development
+• Flutter Mobile Development
+• FastAPI Backend Systems
+• Artificial Intelligence
+• Software Architecture
+• Cyber Security
 
 <div align="center">
 
@@ -126,6 +123,8 @@ Development Insights
 <h2 align="center">
 Featured Projects
 </h2>
+
+<br>
 
 <table>
 <tr>
@@ -324,4 +323,4 @@ Creates personalized learning schedules for students.
 
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=gradient&customColorList=12,24,30,14"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=footer&color=gradient&customColorList=12,24,30,14"/>
