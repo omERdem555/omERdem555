@@ -63,9 +63,9 @@ Currently focused on building scalable applications with Flutter and FastAPI whi
 
 <img
 width="78%"
-src="https://skillicons.dev/icons?i=flutter,react,angular,fastapi,dotnet,cs,python,cpp,js,ts,html,css,mysql,postgres,sqlite,firebase,git,github,arduino,vscode&perline=15"/>
+src="https://skillicons.dev/icons?i=flutter,react,angular,fastapi,dotnet,cs,python,cpp,js,ts,html,css,mysql,postgres,sqlite,firebase,git,github,arduino,vscode,linux,postman,md,vercel,figma&perline=15"/>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Flutter-58A6FF?style=flat-square"/>
 <img src="https://img.shields.io/badge/FastAPI-58A6FF?style=flat-square"/>
@@ -110,13 +110,11 @@ src="https://skillicons.dev/icons?i=flutter,react,angular,fastapi,dotnet,cs,pyth
 
 <div align="center">
 
-<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omERdem555&theme=github_dark"/>
+<img width="41%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omERdem555&theme=github_dark"/>
 
-<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omERdem555&theme=github_dark"/>
+<img width="41%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omERdem555&theme=github_dark"/>
 
 </div>
-
-<br>
 
 <div align="center">
 
@@ -132,10 +130,10 @@ src="https://skillicons.dev/icons?i=flutter,react,angular,fastapi,dotnet,cs,pyth
 <td width="46%" align="center" valign="top">
 
 <a href="https://github.com/omERdem555/StudySpritz">
-<img src="https://raw.githubusercontent.com/omERdem555/StudySpritz/master/preview.jpeg" width="85%">
+<img src="https://raw.githubusercontent.com/omERdem555/StudySpritz/master/preview.jpeg" width="75%">
 </a>
 
-<h3 align="center">StudySpritz</h3>
+<h4 align="center">StudySpritz</h3>
 
 <p align="center">
 
@@ -161,10 +159,10 @@ Supports <b>PDF</b>, <b>DOCX</b> and <b>TXT</b> documents with bookmarks, statis
 <td width="46%" align="center" valign="top">
 
 <a href="https://github.com/omERdem555/CineScope">
-<img src="https://raw.githubusercontent.com/omERdem555/CineScope/master/preview.jpeg" width="95%">
+<img src="https://raw.githubusercontent.com/omERdem555/CineScope/master/preview.jpeg" width="75%">
 </a>
 
-<h3 align="center">CineScope</h3>
+<h4 align="center">CineScope</h3>
 
 <p align="center">
 
@@ -198,10 +196,10 @@ Browse trending movies, search content and explore detailed information.
 <td width="46%" align="center" valign="top">
 
 <a href="https://github.com/omERdem555/Portfolio">
-<img src="https://raw.githubusercontent.com/omERdem555/Portfolio/master/preview.jpeg" width="85%">
+<img src="https://raw.githubusercontent.com/omERdem555/Portfolio/master/preview.jpeg" width="75%">
 </a>
 
-<h3 align="center">Portfolio</h3>
+<h4 align="center">Portfolio</h3>
 
 <p align="center">
 
@@ -227,10 +225,10 @@ Minimal, responsive and performance-focused.
 <td width="46%" align="center" valign="top">
 
 <a href="https://github.com/omERdem555/Blog">
-<img src="https://raw.githubusercontent.com/omERdem555/Blog/master/preview.jpeg" width="85%">
+<img src="https://raw.githubusercontent.com/omERdem555/Blog/master/preview.jpeg" width="75%">
 </a>
 
-<h3 align="center">Personal Blog</h3>
+<h4 align="center">Personal Blog</h3>
 
 <p align="center">
 
@@ -264,10 +262,10 @@ Markdown-based content with SEO, RSS and high performance.
 <td width="46%" align="center" valign="top">
 
 <a href="https://github.com/omERdem555/HabitTracking">
-<img src="https://raw.githubusercontent.com/omERdem555/HabitTracking/master/preview.jpeg" width="85%">
+<img src="https://raw.githubusercontent.com/omERdem555/HabitTracking/master/preview.jpeg" width="75%">
 </a>
 
-<h3 align="center">Habit Tracking</h3>
+<h4 align="center">Habit Tracking</h3>
 
 <p align="center">
 
@@ -293,10 +291,10 @@ Track habits and visualize daily progress.
 <td width="46%" align="center" valign="top">
 
 <a href="https://github.com/omERdem555/PersonalStudyPlan">
-<img src="https://raw.githubusercontent.com/omERdem555/PersonalStudyPlan/master/preview.jpeg" width="85%">
+<img src="https://raw.githubusercontent.com/omERdem555/PersonalStudyPlan/master/preview.jpeg" width="75%">
 </a>
 
-<h3 align="center">Personal Study Plan</h3>
+<h4 align="center">Personal Study Plan</h3>
 
 <p align="center">
 
