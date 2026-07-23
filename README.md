@@ -34,7 +34,8 @@ Currently focused on building scalable applications with Flutter and FastAPI whi
 🔹 Software Architecture & Clean Design
 
 🔹 Cyber Security Fundamentals
-<div align="center">
+
+<div width="82%" align="center">
 
 <a href="https://www.linkedin.com/in/omererdem555">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -58,7 +59,7 @@ Currently focused on building scalable applications with Flutter and FastAPI whi
 
 # Tech Stack
 
-<div align="center">
+<div width="82%" align="center">
 
 <img src="https://skillicons.dev/icons?i=flutter,react,angular,fastapi,dotnet,cs,python,cpp,js,ts,html,css,mysql,postgres,sqlite,firebase,git,github,arduino,vscode&perline=11"/>
 
@@ -66,7 +67,7 @@ Currently focused on building scalable applications with Flutter and FastAPI whi
 
 <br>
 
-<div align="center">
+<div width="82%" align="center">
 
 <img src="https://img.shields.io/badge/Flutter-58A6FF?style=for-the-badge"/>
 
@@ -88,17 +89,9 @@ Currently focused on building scalable applications with Flutter and FastAPI whi
 
 <div align="center">
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api?username=omERdem555&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=omERdem555&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omERdem555&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="86%" src="https://github-readme-streak-stats.herokuapp.com?user=omERdem555&theme=github-dark-blue&hide_border=true"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omERdem555&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -106,7 +99,15 @@ Currently focused on building scalable applications with Flutter and FastAPI whi
 
 <div align="center">
 
-<img width="86%" src="https://github-readme-activity-graph.vercel.app/graph?username=omERdem555&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF4D4D&area=true&hide_border=true"/>
+<img width="82%" src="https://github-readme-streak-stats.herokuapp.com?user=omERdem555&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="82%" src="https://github-readme-activity-graph.vercel.app/graph?username=omERdem555&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF4D4D&area=true&hide_border=true"/>
 
 </div>
 
@@ -116,9 +117,9 @@ Currently focused on building scalable applications with Flutter and FastAPI whi
 
 <div align="center">
 
-<img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omERdem555&theme=github_dark"/>
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omERdem555&theme=github_dark"/>
 
-<img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omERdem555&theme=github_dark"/>
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omERdem555&theme=github_dark"/>
 
 </div>
 
@@ -126,7 +127,7 @@ Currently focused on building scalable applications with Flutter and FastAPI whi
 
 <div align="center">
 
-<img width="86%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omERdem555&theme=github_dark"/>
+<img width="82%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omERdem555&theme=github_dark"/>
 
 </div>
 
@@ -135,7 +136,7 @@ Currently focused on building scalable applications with Flutter and FastAPI whi
 <table>
 <tr>
 
-<td width="50%" align="center" valign="top">
+<td width="46%" align="center" valign="top">
 
 <a href="https://github.com/omERdem555/StudySpritz">
 <img src="https://raw.githubusercontent.com/omERdem555/StudySpritz/master/preview.jpeg" width="85%">
@@ -164,7 +165,7 @@ Supports <b>PDF</b>, <b>DOCX</b> and <b>TXT</b> documents with bookmarks, statis
 
 </td>
 
-<td width="50%" align="center" valign="top">
+<td width="46%" align="center" valign="top">
 
 <a href="https://github.com/omERdem555/CineScope">
 <img src="https://raw.githubusercontent.com/omERdem555/CineScope/master/preview.jpeg" width="95%">
@@ -201,7 +202,7 @@ Browse trending movies, search content and explore detailed information.
 
 <tr>
 
-<td width="50%" align="center" valign="top">
+<td width="46%" align="center" valign="top">
 
 <a href="https://github.com/omERdem555/Portfolio">
 <img src="https://raw.githubusercontent.com/omERdem555/Portfolio/master/preview.jpeg" width="85%">
@@ -230,7 +231,7 @@ Minimal, responsive and performance-focused.
 
 </td>
 
-<td width="50%" align="center" valign="top">
+<td width="46%" align="center" valign="top">
 
 <a href="https://github.com/omERdem555/Blog">
 <img src="https://raw.githubusercontent.com/omERdem555/Blog/master/preview.jpeg" width="85%">
@@ -267,7 +268,7 @@ Markdown-based content with SEO, RSS and high performance.
 
 <tr>
 
-<td width="50%" align="center" valign="top">
+<td width="46%" align="center" valign="top">
 
 <a href="https://github.com/omERdem555/HabitTracking">
 <img src="https://raw.githubusercontent.com/omERdem555/HabitTracking/master/preview.jpeg" width="85%">
@@ -296,7 +297,7 @@ Track habits and visualize daily progress.
 
 </td>
 
-<td width="50%" align="center" valign="top">
+<td width="46%" align="center" valign="top">
 
 <a href="https://github.com/omERdem555/PersonalStudyPlan">
 <img src="https://raw.githubusercontent.com/omERdem555/PersonalStudyPlan/master/preview.jpeg" width="85%">
