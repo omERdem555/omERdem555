@@ -63,7 +63,7 @@ Currently focused on building scalable applications with Flutter and FastAPI whi
 
 <img
 width="78%"
-src="https://skillicons.dev/icons?i=flutter,react,angular,fastapi,dotnet,cs,python,cpp,js,ts,html,css,mysql,postgres,sqlite,firebase,git,github,arduino,vscode,linux,postman,md,vercel,figma&perline=15"/>
+src="https://skillicons.dev/icons?i=flutter,react,angular,fastapi,dotnet,cs,python,cpp,js,ts,html,css,mysql,postgres,sqlite,firebase,git,github,arduino,vscode,md,vercel&perline=11"/>
 
 <br>
 
