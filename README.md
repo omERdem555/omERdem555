@@ -35,22 +35,22 @@ Currently focused on building scalable applications with Flutter and FastAPI whi
 
 🔹 Cyber Security Fundamentals
 
-<div width="82%" align="center">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/omererdem555">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://omererdemportfolio.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-0969DA?style=flat-square&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="https://omererdemblog.vercel.app">
-<img src="https://img.shields.io/badge/Blog-181717?style=for-the-badge&logo=astro&logoColor=white"/>
+<img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=astro&logoColor=white"/>
 </a>
 
 <a href="mailto:omererdem555@outlook.com">
-<img src="https://img.shields.io/badge/Email-FF4D4D?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-FF4D4D?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
