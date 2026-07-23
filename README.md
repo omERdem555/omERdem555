@@ -17,9 +17,9 @@ Computer Engineering Student • Full-Stack Developer • Cyber Security
 
 # About
 
-Computer Engineering student focused on designing and developing modern software solutions.
+Computer Engineering student with a strong interest in backend systems, mobile development and software architecture.
 
-Interested in building reliable applications with clean architecture, scalable backend systems and intelligent technologies. I enjoy transforming ideas into functional products by combining software engineering principles with emerging technologies.
+Currently focused on building scalable applications with Flutter and FastAPI while expanding my knowledge in artificial intelligence and cyber security. I enjoy transforming ideas into practical software with clean, maintainable code.
 
 ### Current Focus
 
@@ -58,7 +58,7 @@ Interested in building reliable applications with clean architecture, scalable b
 
 # Tech Stack
 
-<div width="50%" align="center">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=flutter,react,angular,fastapi,dotnet,cs,python,cpp,js,ts,html,css,mysql,postgres,sqlite,firebase,git,github,arduino,vscode&perline=11"/>
 
@@ -88,17 +88,9 @@ Interested in building reliable applications with clean architecture, scalable b
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=omERdem555&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api?username=omERdem555&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omERdem555&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com?user=omERdem555&theme=github-dark-blue&hide_border=true"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omERdem555&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -106,7 +98,15 @@ Interested in building reliable applications with clean architecture, scalable b
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=omERdem555&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF4D4D&area=true&hide_border=true"/>
+<img width="86%" src="https://github-readme-streak-stats.herokuapp.com?user=omERdem555&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="86%" src="https://github-readme-activity-graph.vercel.app/graph?username=omERdem555&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF4D4D&area=true&hide_border=true"/>
 
 </div>
 
@@ -116,9 +116,9 @@ Interested in building reliable applications with clean architecture, scalable b
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omERdem555&theme=github_dark"/>
+<img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omERdem555&theme=github_dark"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omERdem555&theme=github_dark"/>
+<img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omERdem555&theme=github_dark"/>
 
 </div>
 
@@ -126,231 +126,202 @@ Interested in building reliable applications with clean architecture, scalable b
 
 <div align="center">
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omERdem555&theme=github_dark"/>
+<img width="86%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omERdem555&theme=github_dark"/>
 
 </div>
 
 # Featured Projects
 
 <table>
-
 <tr>
 
-<td width="38%" valign="top">
+<td width="50%" align="center" valign="top">
 
 <a href="https://github.com/omERdem555/StudySpritz">
-<img src="https://raw.githubusercontent.com/omERdem555/StudySpritz/master/preview.jpeg" width="100%">
+<img src="https://raw.githubusercontent.com/omERdem555/StudySpritz/master/preview.jpeg" width="85%">
 </a>
 
-</td>
+<h3 align="center">StudySpritz</h3>
 
-<td width="62%" valign="top">
-
-## StudySpritz
+<p align="center">
 
 <img src="https://img.shields.io/badge/Flutter-58A6FF?style=flat-square"/>
 <img src="https://img.shields.io/badge/Hive-58A6FF?style=flat-square"/>
 <img src="https://img.shields.io/badge/Clean_Architecture-FF4D4D?style=flat-square"/>
 
-An offline-first speed reading application built with Flutter.
+</p>
 
-Supports document-based reading, customizable speed controls, bookmarks and statistics with local data persistence using Hive. Designed with Clean Architecture for maintainability and scalability.
+<p align="center">
+Offline-first speed reading app built with Flutter.<br>
+Supports <b>PDF</b>, <b>DOCX</b> and <b>TXT</b> documents with bookmarks, statistics and local storage.
+</p>
 
-<br>
-
+<p align="center">
 <a href="https://github.com/omERdem555/StudySpritz">
-<img src="https://img.shields.io/badge/View_Repository-58A6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/View_Repository-58A6FF?style=flat-square"/>
 </a>
+</p>
 
 </td>
 
-</tr>
-
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td width="38%" valign="top">
+<td width="50%" align="center" valign="top">
 
 <a href="https://github.com/omERdem555/CineScope">
-<img src="https://raw.githubusercontent.com/omERdem555/CineScope/master/preview.jpeg" width="100%">
+<img src="https://raw.githubusercontent.com/omERdem555/CineScope/master/preview.jpeg" width="85%">
 </a>
 
-</td>
+<h3 align="center">CineScope</h3>
 
-<td width="62%" valign="top">
-
-## CineScope
+<p align="center">
 
 <img src="https://img.shields.io/badge/React-58A6FF?style=flat-square"/>
 <img src="https://img.shields.io/badge/Node.js-58A6FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/TMDB_API-FF4D4D?style=flat-square"/>
+<img src="https://img.shields.io/badge/TMDb_API-FF4D4D?style=flat-square"/>
 
-A modern movie discovery application powered by the TMDb API.
+</p>
 
-Provides movie search, trending content, detailed information and recommendations through a responsive React interface with a custom Node.js backend service.
+<p align="center">
+Movie discovery platform powered by the TMDb API.<br>
+Browse trending movies, search content and explore detailed information.
+</p>
 
-<br>
-
+<p align="center">
 <a href="https://github.com/omERdem555/CineScope">
-<img src="https://img.shields.io/badge/View_Repository-58A6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/View_Repository-58A6FF?style=flat-square"/>
 </a>
+</p>
 
 </td>
 
 </tr>
 
-</table>
-
----
-
-<table>
+<tr>
+<td colspan="2">&nbsp;</td>
+</tr>
 
 <tr>
 
-<td width="38%" valign="top">
+<td width="50%" align="center" valign="top">
 
 <a href="https://github.com/omERdem555/Portfolio">
-<img src="https://raw.githubusercontent.com/omERdem555/Portfolio/master/preview.jpeg" width="100%">
+<img src="https://raw.githubusercontent.com/omERdem555/Portfolio/master/preview.jpeg" width="85%">
 </a>
 
-</td>
+<h3 align="center">Portfolio</h3>
 
-<td width="62%" valign="top">
-
-## Portfolio
+<p align="center">
 
 <img src="https://img.shields.io/badge/HTML-58A6FF?style=flat-square"/>
 <img src="https://img.shields.io/badge/CSS-58A6FF?style=flat-square"/>
 <img src="https://img.shields.io/badge/UI_Design-FF4D4D?style=flat-square"/>
 
-A modern personal portfolio website focused on performance, simplicity and user experience.
+</p>
 
-Designed with a minimalist interface to showcase projects, technical skills and professional journey with a responsive and accessible design.
+<p align="center">
+Personal portfolio website showcasing projects, technical skills and experience.<br>
+Minimal, responsive and performance-focused.
+</p>
 
-<br>
-
+<p align="center">
 <a href="https://github.com/omERdem555/Portfolio">
-<img src="https://img.shields.io/badge/View_Repository-58A6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/View_Repository-58A6FF?style=flat-square"/>
 </a>
+</p>
 
 </td>
 
-</tr>
-
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td width="38%" valign="top">
+<td width="50%" align="center" valign="top">
 
 <a href="https://github.com/omERdem555/Blog">
-<img src="https://raw.githubusercontent.com/omERdem555/Blog/master/preview.jpeg" width="100%">
+<img src="https://raw.githubusercontent.com/omERdem555/Blog/master/preview.jpeg" width="85%">
 </a>
 
-</td>
+<h3 align="center">Personal Blog</h3>
 
-<td width="62%" valign="top">
-
-## Personal Blog
+<p align="center">
 
 <img src="https://img.shields.io/badge/Astro-58A6FF?style=flat-square"/>
 <img src="https://img.shields.io/badge/Markdown-58A6FF?style=flat-square"/>
 <img src="https://img.shields.io/badge/SEO-FF4D4D?style=flat-square"/>
 
-A technical blogging platform built with Astro and Markdown.
+</p>
 
-Includes SEO optimization, sitemap generation, RSS support and structured metadata while maintaining high performance and fast loading times.
+<p align="center">
+Technical blog built with Astro.<br>
+Markdown-based content with SEO, RSS and high performance.
+</p>
 
-<br>
-
+<p align="center">
 <a href="https://github.com/omERdem555/Blog">
-<img src="https://img.shields.io/badge/View_Repository-58A6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/View_Repository-58A6FF?style=flat-square"/>
 </a>
+</p>
 
 </td>
 
 </tr>
 
-</table>
-
----
-
-<table>
+<tr>
+<td colspan="2">&nbsp;</td>
+</tr>
 
 <tr>
 
-<td width="38%" valign="top">
+<td width="50%" align="center" valign="top">
 
 <a href="https://github.com/omERdem555/HabitTracking">
-<img src="https://raw.githubusercontent.com/omERdem555/HabitTracking/master/preview.jpeg" width="100%">
+<img src="https://raw.githubusercontent.com/omERdem555/HabitTracking/master/preview.jpeg" width="85%">
 </a>
 
-</td>
+<h3 align="center">Habit Tracking</h3>
 
-<td width="62%" valign="top">
-
-## Habit Tracking
+<p align="center">
 
 <img src="https://img.shields.io/badge/React-58A6FF?style=flat-square"/>
 <img src="https://img.shields.io/badge/TypeScript-58A6FF?style=flat-square"/>
 <img src="https://img.shields.io/badge/Productivity-FF4D4D?style=flat-square"/>
 
-A productivity application designed to help users build and maintain daily habits.
+</p>
 
-Provides habit management, progress tracking and a clean user experience focused on consistency and personal improvement.
+<p align="center">
+Productivity application for habit building.<br>
+Track habits and visualize daily progress.
+</p>
 
-<br>
-
+<p align="center">
 <a href="https://github.com/omERdem555/HabitTracking">
-<img src="https://img.shields.io/badge/View_Repository-58A6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/View_Repository-58A6FF?style=flat-square"/>
 </a>
+</p>
 
 </td>
 
-</tr>
-
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td width="38%" valign="top">
+<td width="50%" align="center" valign="top">
 
 <a href="https://github.com/omERdem555/PersonalStudyPlan">
-<img src="https://raw.githubusercontent.com/omERdem555/PersonalStudyPlan/master/preview.jpeg" width="100%">
+<img src="https://raw.githubusercontent.com/omERdem555/PersonalStudyPlan/master/preview.jpeg" width="85%">
 </a>
 
-</td>
+<h3 align="center">Personal Study Plan</h3>
 
-<td width="62%" valign="top">
-
-## Personal Study Plan
+<p align="center">
 
 <img src="https://img.shields.io/badge/Flutter-58A6FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Artificial_Intelligence-FF4D4D?style=flat-square"/>
-<img src="https://img.shields.io/badge/Education-58A6FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI-FF4D4D?style=flat-square"/>
+<img src="https://img.shields.io/badge=Education-58A6FF?style=flat-square"/>
 
-An AI-assisted study planning application designed to create personalized learning schedules.
+</p>
 
-Combines intelligent planning approaches with a mobile experience to help users organize their learning process more effectively.
+<p align="center">
+AI-assisted study planning application.<br>
+Creates personalized learning schedules for students.
+</p>
 
-<br>
-
+<p align="center">
 <a href="https://github.com/omERdem555/PersonalStudyPlan">
-<img src="https://img.shields.io/badge/View_Repository-58A6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/View_Repository-58A6FF?style=flat-square"/>
 </a>
+</p>
 
 </td>
 
