@@ -2,20 +2,16 @@
 
 <div align="center">
 
-<img src="./assets/banner.png" width="92%"/>
-
 <br><br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Flutter+%7C+FastAPI;Artificial+Intelligence;Cyber+Security;Building+Software+That+Creates+Value)](https://git.io/typing-svg)
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&height=90&section=footer&color=gradient&customColorList=12,24"/>
-
-<h2 align="center">
+<h2 >
 About Me
 </h2>
-<p align="center">
+<p>
 Software Engineering • Backend • Mobile • AI
 </p>
 
@@ -59,9 +55,6 @@ Currently Focus
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&height=90&section=footer&color=gradient&customColorList=12,24"/>
-
-<br>
 
 <h2 align="center">
 Tech Stack
@@ -88,15 +81,9 @@ src="https://skillicons.dev/icons?i=flutter,react,angular,fastapi,dotnet,cs,pyth
 
 <br>
 
-## GitHub Dashboard
-
-<div align="center">
-
-<img width="34%" src="https://github-readme-stats.vercel.app/api?username=omERdem555&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omERdem555&layout=compact&theme=github_dark&hide_border=true">
-
-</div>
+<h2 align="center">
+GitHub Dashboard
+</h2>
 
 <br>
 
@@ -118,11 +105,9 @@ src="https://skillicons.dev/icons?i=flutter,react,angular,fastapi,dotnet,cs,pyth
 
 <br>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=omERdem555&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"/>
-</p>
-
-## Development Insights
+<h2 align="center">
+Development Insights
+</h2>
 
 <div align="center">
 
@@ -138,7 +123,9 @@ src="https://skillicons.dev/icons?i=flutter,react,angular,fastapi,dotnet,cs,pyth
 
 </div>
 
-## Featured Projects
+<h2 align="center">
+Featured Projects
+</h2>
 
 <table>
 <tr>
