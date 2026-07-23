@@ -59,27 +59,20 @@ Currently focused on building scalable applications with Flutter and FastAPI whi
 
 # Tech Stack
 
-<div width="82%" align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,react,angular,fastapi,dotnet,cs,python,cpp,js,ts,html,css,mysql,postgres,sqlite,firebase,git,github,arduino,vscode&perline=11"/>
+<img
+width="78%"
+src="https://skillicons.dev/icons?i=flutter,react,angular,fastapi,dotnet,cs,python,cpp,js,ts,html,css,mysql,postgres,sqlite,firebase,git,github,arduino,vscode&perline=10"/>
 
-</div>
+<br><br>
 
-<br>
-
-<div width="82%" align="center">
-
-<img src="https://img.shields.io/badge/Flutter-58A6FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/FastAPI-58A6FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/React-58A6FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Clean_Architecture-FF4D4D?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AI-FF4D4D?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Open_Source-58A6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Flutter-58A6FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/FastAPI-58A6FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/React-58A6FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Clean_Architecture-FF4D4D?style=flat-square"/>
+<img src="https://img.shields.io/badge/Artificial_Intelligence-FF4D4D?style=flat-square"/>
+<img src="https://img.shields.io/badge/Open_Source-58A6FF?style=flat-square"/>
 
 </div>
 
