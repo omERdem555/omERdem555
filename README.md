@@ -167,7 +167,7 @@ Supports <b>PDF</b>, <b>DOCX</b> and <b>TXT</b> documents with bookmarks, statis
 <td width="50%" align="center" valign="top">
 
 <a href="https://github.com/omERdem555/CineScope">
-<img src="https://raw.githubusercontent.com/omERdem555/CineScope/master/preview.jpeg" width="85">
+<img src="https://raw.githubusercontent.com/omERdem555/CineScope/master/preview.jpeg" width="95%">
 </a>
 
 <h3 align="center">CineScope</h3>
