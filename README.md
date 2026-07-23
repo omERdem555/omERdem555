@@ -15,6 +15,8 @@ Computer Engineering Student • Full-Stack Developer • Cyber Security
 
 </div>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,2"/>
+
 # About
 
 Computer Engineering student with a strong interest in backend systems, mobile development and software architecture.
@@ -55,7 +57,9 @@ Currently focused on building scalable applications with Flutter and FastAPI whi
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,2"/>
+
+<br>
 
 ### Tech Stack
 
@@ -76,23 +80,17 @@ src="https://skillicons.dev/icons?i=flutter,react,angular,fastapi,dotnet,cs,pyth
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=2,24"/>
+
+<br>
 
 ## GitHub Dashboard
 
 <div align="center">
 
-<img width="30%" src="https://github-readme-stats.vercel.app/api?username=omERdem555&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img width="34%" src="https://github-readme-stats.vercel.app/api?username=omERdem555&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omERdem555&layout=compact&theme=github_dark&hide_border=true">
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=omERdem555&theme=github-dark-blue&hide_border=true"/>
+<img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omERdem555&layout=compact&theme=github_dark&hide_border=true">
 
 </div>
 
@@ -100,25 +98,35 @@ src="https://skillicons.dev/icons?i=flutter,react,angular,fastapi,dotnet,cs,pyth
 
 <div align="center">
 
-<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=omERdem555&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF4D4D&area=true&hide_border=true"/>
+<img width="68%" src="https://github-readme-streak-stats.herokuapp.com?user=omERdem555&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
----
+<br>
+
+<div align="center">
+
+<img width="68%" src="https://github-readme-activity-graph.vercel.app/graph?username=omERdem555&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF4D4D&area=true&hide_border=true"/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=24,12"/>
+
+<br>
 
 ## Development Insights
 
 <div align="center">
 
-<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omERdem555&theme=github_dark"/>
+<img width="34%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omERdem555&theme=github_dark"/>
 
-<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omERdem555&theme=github_dark"/>
+<img width="34%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omERdem555&theme=github_dark"/>
 
 </div>
 
 <div align="center">
 
-<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omERdem555&theme=github_dark"/>
+<img width="68%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omERdem555&theme=github_dark"/>
 
 </div>
 
@@ -133,7 +141,7 @@ src="https://skillicons.dev/icons?i=flutter,react,angular,fastapi,dotnet,cs,pyth
 <img src="https://raw.githubusercontent.com/omERdem555/StudySpritz/master/preview.jpeg" width="75%">
 </a>
 
-<h4 align="center">StudySpritz</h3>
+<h4 align="center">StudySpritz</h4>
 
 <p align="center">
 
@@ -162,7 +170,7 @@ Supports <b>PDF</b>, <b>DOCX</b> and <b>TXT</b> documents with bookmarks, statis
 <img src="https://raw.githubusercontent.com/omERdem555/CineScope/master/preview.jpeg" height="80%">
 </a>
 
-<h4 align="center">CineScope</h3>
+<h4 align="center">CineScope</h4>
 
 <p align="center">
 
@@ -199,7 +207,7 @@ Browse trending movies, search content and explore detailed information.
 <img src="https://raw.githubusercontent.com/omERdem555/Portfolio/master/preview.jpeg" width="75%">
 </a>
 
-<h4 align="center">Portfolio</h3>
+<h4 align="center">Portfolio</h4>
 
 <p align="center">
 
@@ -228,7 +236,7 @@ Minimal, responsive and performance-focused.
 <img src="https://raw.githubusercontent.com/omERdem555/Blog/master/preview.jpeg" width="75%">
 </a>
 
-<h4 align="center">Personal Blog</h3>
+<h4 align="center">Personal Blog</h4>
 
 <p align="center">
 
@@ -265,7 +273,7 @@ Markdown-based content with SEO, RSS and high performance.
 <img src="https://raw.githubusercontent.com/omERdem555/HabitTracking/master/preview.jpeg" width="75%">
 </a>
 
-<h4 align="center">Habit Tracking</h3>
+<h4 align="center">Habit Tracking</h4>
 
 <p align="center">
 
@@ -294,7 +302,7 @@ Track habits and visualize daily progress.
 <img src="https://raw.githubusercontent.com/omERdem555/PersonalStudyPlan/master/preview.jpeg" width="75%">
 </a>
 
-<h4 align="center">Personal Study Plan</h3>
+<h4 align="center">Personal Study Plan</h4>
 
 <p align="center">
 
@@ -320,3 +328,12 @@ Creates personalized learning schedules for students.
 </tr>
 
 </table>
+
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=omERdem555&style=flat-square&color=58A6FF"/>
+
+</div>
