@@ -1,29 +1,31 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,24,30,14&text=Ömer%20Erdem&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Full-Stack%20Developer&descAlignY=58"/>
+
 <div align="center">
-<img src="./assets/banner.png" width="100%" alt="Banner"/>
 
-<br>
+<img src="./assets/banner.png" width="92%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student;Full-Stack+Developer;Artificial+Intelligence;Cyber+Security;Building+Software+That+Creates+Value)](https://git.io/typing-svg)
+<br><br>
 
-<br>
-
-<h2>
-
-Computer Engineering Student • Full-Stack Developer • Cyber Security
-
-</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Flutter+%7C+FastAPI;Artificial+Intelligence;Cyber+Security;Building+Software+That+Creates+Value)](https://git.io/typing-svg)
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&height=90&section=footer&color=gradient&customColorList=12,24"/>
 
-# About
+<h2 align="center">
+About Me
+</h2>
+<p align="center">
+Software Engineering • Backend • Mobile • AI
+</p>
 
 Computer Engineering student with a strong interest in backend systems, mobile development and software architecture.
 
 Currently focused on building scalable applications with Flutter and FastAPI while expanding my knowledge in artificial intelligence and cyber security. I enjoy transforming ideas into practical software with clean, maintainable code.
 
-### Current Focus
+<h2 align="center">
+Currently Focus
+</h2>
 
 🔹 Full-Stack Application Development
 
@@ -57,11 +59,13 @@ Currently focused on building scalable applications with Flutter and FastAPI whi
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&height=90&section=footer&color=gradient&customColorList=12,24"/>
 
 <br>
 
-### Tech Stack
+<h2 align="center">
+Tech Stack
+</h2>
 
 <div align="center">
 
@@ -113,6 +117,10 @@ src="https://skillicons.dev/icons?i=flutter,react,angular,fastapi,dotnet,cs,pyth
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=24,12"/>
 
 <br>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=omERdem555&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+</p>
 
 ## Development Insights
 
@@ -329,11 +337,4 @@ Creates personalized learning schedules for students.
 
 </table>
 
-
-<br>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=omERdem555&style=flat-square&color=58A6FF"/>
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=gradient&customColorList=12,24,30,14"/>
