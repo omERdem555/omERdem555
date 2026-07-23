@@ -167,7 +167,7 @@ Supports <b>PDF</b>, <b>DOCX</b> and <b>TXT</b> documents with bookmarks, statis
 <td width="50%" align="center" valign="top">
 
 <a href="https://github.com/omERdem555/CineScope">
-<img src="https://raw.githubusercontent.com/omERdem555/CineScope/master/preview.jpeg" width="85%" height="120%">
+<img src="https://raw.githubusercontent.com/omERdem555/CineScope/master/preview.jpeg" width="85">
 </a>
 
 <h3 align="center">CineScope</h3>
@@ -308,7 +308,7 @@ Track habits and visualize daily progress.
 
 <img src="https://img.shields.io/badge/Flutter-58A6FF?style=flat-square"/>
 <img src="https://img.shields.io/badge/AI-FF4D4D?style=flat-square"/>
-<img src="https://img.shields.io/badge=Education-58A6FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Education-58A6FF?style=flat-square"/>
 
 </p>
 
